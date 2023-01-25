@@ -28,7 +28,7 @@
             <th></th>
         </thead>
 
-        <h1>Ini Updated 1</h1>
+        <h1>Ini Updated 2</h1>
 
         <?php
           $sqlGet = "SELECT * FROM siswa";

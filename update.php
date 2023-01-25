@@ -20,6 +20,8 @@
     <title>CRUD</title>
 </head>
 <body>
+
+<h2>KWWKWK</h2>
     <div class="w-50 mx-auto border p-3 mt-5 mb-3">
       <a href="update.php">Kembali ke Home</a>
         <form action="" method="post">
