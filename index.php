@@ -28,8 +28,11 @@
             <th></th>
         </thead>
 
+<<<<<<< HEAD
         <h1>Ini Updated 2</h1>
 
+=======
+>>>>>>> parent of d6ea6a1 (index di updated)
         <?php
           $sqlGet = "SELECT * FROM siswa";
           $query = mysqli_query($conn,$sqlGet);
