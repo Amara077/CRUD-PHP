@@ -28,6 +28,8 @@
             <th></th>
         </thead>
 
+        <h1>Ini Updated 1</h1>
+
         <?php
           $sqlGet = "SELECT * FROM siswa";
           $query = mysqli_query($conn,$sqlGet);
