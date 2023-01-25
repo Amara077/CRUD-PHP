@@ -37,8 +37,6 @@
                 <option value="Geomatika">Teknik Geomatika</option>
             </select>
 
-            <h2>Updated</h2>
-
             <label for="nis">Alamat</label>
             <input type="text" name="alamat" id="alamat" class="form-control" required>
 

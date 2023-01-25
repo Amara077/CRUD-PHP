@@ -29,7 +29,11 @@
         </thead>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         <h1>Ini Updated 2</h1>
+=======
+        <h1>Ini Updated 1</h1>
+>>>>>>> parent of cb42d96 (index add updated, updated)
 
 =======
 >>>>>>> parent of d6ea6a1 (index di updated)
